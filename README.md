@@ -29,3 +29,5 @@
 ![alt text](image.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+<img width="426" height="304" alt="изображение" src="https://github.com/user-attachments/assets/ab12d545-2347-4a6d-880b-0846c3ad5612" />
+
